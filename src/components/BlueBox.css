@@ -1,0 +1,25 @@
+.blue-box {
+  background-color: blue;
+  width: 80%; /* Set the width as needed */
+  height: 600px; /* Set the height as needed */
+}
+
+.hey {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  color: white;
+  font-size: 40px;
+}
+
+.white {
+  color: white;
+}
+
+#sleep img {
+  max-height: 200px;
+}
