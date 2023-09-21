@@ -1,7 +1,10 @@
 .blue-box {
   background-color: blue;
   width: 80%; /* Set the width as needed */
-  height: 600px; /* Set the height as needed */
+  min-height: 600px; /* Set the height as needed */
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
 
 .hey {
