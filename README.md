@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[https://imgur.com/l2ZLhn2](https://github.com/lokashrinav/CodePathProject1/blob/main/ezgif-2-3338f0bb9b.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[[https://imgur.com/l2ZLhn2](https://github.com/lokashrinav/CodePathProject1/blob/main/ezgif-2-3338f0bb9b.gif)](https://github.com/lokashrinav/CodePathProject1/blob/main/ezgif-2-3338f0bb9b.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
