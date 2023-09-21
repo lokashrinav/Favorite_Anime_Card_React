@@ -6,6 +6,8 @@ This web app: **insert description**
 
 Time spent: 5 hours spent in total
 
+You may try this link if it doesn't work properly on github pages: https://replit.com/@ShrinavLoka/idk
+
 ## Required Features
 
 The following **required** functionality is completed:
