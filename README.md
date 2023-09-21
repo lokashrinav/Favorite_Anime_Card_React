@@ -18,11 +18,11 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [x] Buttons or links to a related resources are on each card component
-- [x] The site is responsive for both desktop and mobile formats
+- [ ] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
-* [x] List anything else that you added to improve the site's functionality!
+* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
