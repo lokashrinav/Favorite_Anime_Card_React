@@ -2,7 +2,7 @@
 
 Submitted by: Shrinav Loka
 
-This web app: **insert description**
+This web app: This React web app presents a list of my favorite animes. It provides a quick and organized way to view my top anime picks, offering a straightforward and user-friendly interface for anime enthusiasts.
 
 Time spent: 5 hours spent in total
 
