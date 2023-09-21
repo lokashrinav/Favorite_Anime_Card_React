@@ -1,10 +1,10 @@
 # Web Development Project 1 - Favorite_Animes
 
-Submitted by: **Your Name Here**
+Submitted by: Shrinav Loka
 
 This web app: **insert description**
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
